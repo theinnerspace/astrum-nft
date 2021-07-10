@@ -1,5 +1,5 @@
 {
-  "name": "astrunz",
+  "name": "astrum",
   "version": "1.0.0",
   "description": "Astro NFT",
   "main": "truffle-config.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sirnicolaz/astrunz.git"
+    "url": "git@github.com:theinnerspace/astrum-nft.git"
   },
   "keywords": [
     "nft",
@@ -20,9 +20,9 @@
   "author": "Nicorradec",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sirnicolaz/astrunz/issues"
+    "url": "https://github.com/theinnerspace/astrum-nft/issues"
   },
-  "homepage": "https://github.com/sirnicolaz/astrunz#readme",
+  "homepage": "https://github.com/theinnerspace/astrum-nft",
   "dependencies": {
     "@0xcert/ethereum-erc721": "^2.4.0",
     "@openzeppelin/contracts": "^4.0.0",

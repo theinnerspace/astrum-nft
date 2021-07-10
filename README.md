@@ -1,6 +1,6 @@
-# Astrunz
+# Astrum
 ## Art Magic
 Check the art folder
 
-## Ethereum magic
+## Ethereum Magic
 Check the eth folder

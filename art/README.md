@@ -1,4 +1,4 @@
-# Astrunz
+# Astrum
 ## Art pipeline
 ### Requirements
 
